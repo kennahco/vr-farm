@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4bc62291cf3564b49bd12eb88ebda7f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lineRenderer: {instanceID: 0}
+  - penColor: {instanceID: 0}
+  - inkPrefab: {fileID: 1918536111678056, guid: 8a5e16bec1b664145bebdd7690355496,
+      type: 3}
+  - point: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
